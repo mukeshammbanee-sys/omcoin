@@ -1,0 +1,12 @@
+## ✅ Completed Work
+
+- Proof of Work mining (SHA-256)
+- Block and chain validation
+- UTXO model (Bitcoin-style accounting)
+- Coinbase transaction and maturity rule
+- Wallet generation (private/public keys)
+- ECDSA signing (secp256k1)
+- Transaction creation and broadcasting
+- Peer-to-peer node communication
+- Local testnet (multiple nodes on one machine)
+- Command-line interface (CLI)

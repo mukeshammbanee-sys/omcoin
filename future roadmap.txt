@@ -1,0 +1,9 @@
+## 🔜 Planned Improvements
+
+- Wallet file support (save/load private keys)
+- Transaction signature verification
+- Better peer discovery
+- Block explorer commands
+- Difficulty adjustment
+- Internet-based public testnet
+- Code cleanup and documentation improvements

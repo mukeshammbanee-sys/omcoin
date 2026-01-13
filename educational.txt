@@ -1,0 +1,9 @@
+## ⚠️ Educational Notice
+
+This project is for **learning and experimentation only**.
+
+- Not audited
+- Not secure for real value
+- Not a real cryptocurrency
+
+Do NOT use this code for real financial applications.

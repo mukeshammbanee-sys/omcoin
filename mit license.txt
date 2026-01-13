@@ -1,0 +1,16 @@
+
+(You can copy full MIT license later.)
+
+---
+
+## 5️⃣ Upload to GitHub (WHEN YOU’RE READY)
+
+When you decide to upload:
+
+```bash
+git init
+git add .
+git commit -m "Initial OMChain educational blockchain"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/omchain.git
+git push -u origin main
